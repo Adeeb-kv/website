@@ -1,0 +1,50 @@
+.header{
+  background-color: black;
+}
+.header h1{
+  color: aliceblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size:25px;
+}
+.h2 h2{
+  font-size: 50px;
+}
+.paragraph{
+  width: 500px;
+}
+.imgmain{
+  width: 600px;
+  height: 400px;
+}
+.bacon{
+  width: 190px;
+  height: 190px;
+}
+.imgtext{
+  column-gap: 2px;
+}
+.imagr1{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+ 
+  
+  
+}
+.imagr2{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+ 
+  
+  
+}
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
