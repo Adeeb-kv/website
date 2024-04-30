@@ -2,7 +2,7 @@ import react from "react";
 import "./App.css";
 
 function App(){
-  return <div><center><div className="header"><h1>ABOUT ME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MY WORK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTACT</h1></div>
+  return <div><center><div className="header"><h1>ABOUT US&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MY WORK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTACT</h1></div>
   <div className="h2"><h2>I&nbsp;&nbsp;&nbsp;&nbsp;SAW&nbsp;&nbsp;&nbsp;&nbsp;THE&nbsp;&nbsp;&nbsp;&nbsp;SIGN</h2></div>
   <div className="paragraph"><p>and i opened up my eyes.One of my favourite things to do is to capture the american nostalgiaof signage.They tell us
     where we're going or where we've have been.They express a mood or saying can even just be a shape.But it's the vintage,
